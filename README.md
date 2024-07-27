@@ -3,15 +3,15 @@
 # English
 Minecraft plugin with usefull commands, function etc
 
-Plugin now have only /gamemode [0,1,2,3,survival,creative,adventure,spectator] [player]
+Plugin now have only /gamemode [0,1,2,3,survival,creative,adventure,spectator] [player] \n
 You can choose what u want - actionbar, chat, title
 2 Images bellow
 
 # Polska
-Minecraftowy plugin z użytecznymi komendam, funkcjami itp
+Minecraftowy plugin z użytecznymi komendam, funkcjami itp \n\n
 
-Plugin teraz posiada jedynie /gamemode [0,1,2,3,survival,creative,adventure,spectator] [gracz]
-Możesz wybrać co wolisz - actionbar, chat, title
+Plugin teraz posiada jedynie /gamemode [0,1,2,3,survival,creative,adventure,spectator] [gracz] \n
+Możesz wybrać co wolisz - actionbar, chat, title \n
 2 Zdjęcia poniżej
 
 
